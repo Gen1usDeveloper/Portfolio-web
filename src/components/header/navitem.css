@@ -1,13 +1,9 @@
 .nav-items {
     display: flex;
+    padding: 10px;
     gap: 25px;
+    font-size: medium;
   }
-  
-  .nav-items li a {
-    font-size: smaller;
-    font-weight: 500;
-  }
-  
   .nav-items li a:hover {
     color: #f4ce14;
   }
