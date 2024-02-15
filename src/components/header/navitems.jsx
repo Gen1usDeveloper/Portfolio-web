@@ -27,10 +27,10 @@ const NavItems = (props) => {
             >
             <NavLink to="/">Home </NavLink>
             <NavLink to="">About</NavLink>
+            <NavLink to="">Services</NavLink>
             <NavLink to="">Projects</NavLink>
-            <NavLink to="">Education</NavLink>
             <NavLink to="">Certifications</NavLink>
-            <NavLink to="">Contact</NavLink>
+            <NavLink to="">Contacts</NavLink>
                 </motion.ul>
         </nav>
         </>

@@ -3,7 +3,7 @@ import Footer from "../components/footer/footer";
 import Main from "../components/main/main";
 import About from "../components/About/about";
 import Projects from "../components/projects/projects";
-import Education from "../components/education/Education";
+import Services from "../components/services/Services";
 import Certifications from "../components/certifications/Certifications";
 import Contact from "../components/contact/contact";
 
@@ -12,7 +12,7 @@ const Homepage =()=> {
         <>
         <Header />
         <Main />
-        <Education />
+        <Services />
         <Certifications />
         <Projects />
         <About />
